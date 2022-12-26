@@ -5,7 +5,7 @@
 * **Nick:** *s0urce*
 * **Name:** *Gleb Boyarkin*
 * **Counry:** *Ukraine* <img src="./icons/ukraine.svg" width=35px align=center>
-* **Skills:** <img src="./icons/python.svg" width=35px align=center><img src="./icons/javascript.svg" width=35px align=center><img src="./icons/typescript.svg" width=35px align=center><img src="./icons/go.svg" width=35px align=center><img src="./icons/cpp.svg" width=35px align=center><img src="./icons/csharp.svg" width=35px align=center><img src="./icons/html.svg" width=35px align=center><img src="./icons/css.svg" width=35px align=center>
+* **Skills:** <img src="./icons/python.svg" width=35px align=center><img src="./icons/javascript.svg" width=35px align=center><img src="./icons/typescript.svg" width=35px align=center><img src="./icons/go.svg" width=35px align=center><img src="./icons/cpp.svg" width=35px align=center><img src="./icons/csharp.svg" width=35px align=center><img src="./icons/html.svg" width=35px align=center><img src="./icons/css.svg" width=35px align=center><img src="./icons/svelte.svg" width=35px align=center><img src="./icons/sapper.svg" width=35px align=center><img src="./icons/express.png" width=30px align=center>
 
 ## <center>Contacts</center>
 
