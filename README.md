@@ -19,13 +19,3 @@
 * <img src="./icons/pypi.svg" width=30px align=center> **PyPi:** *[s0urce](https://pypi.org/user/s0urce/)*
 * <img src="./icons/npm.svg" width=30px align=center> **NPM:** *[\_s0urce\_](https://www.npmjs.com/~_s0urce_)*
 * <img src="./icons/eolymp.png" width=30px align=center> **Eolymp:** *[boyarkin](https://www.eolymp.com/users/boyarkin)*
-
-## <center>Stats</center>
-
-<center>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s0urcedev&show_icons=true&count_private=true)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s0urcedev&langs_count=10&count_private=true)
-
-</center>
