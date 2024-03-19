@@ -14,7 +14,7 @@
   * <img src="./icons/html.svg" width=35px align=center><img src="./icons/css.svg" width=35px align=center> HTML + CSS
   * <img src="./icons/svelte.svg" width=35px align=center> Svelte + SvelteKit / Sapper
   * <img src="./icons/express.png" width=30px align=center> Express.js
-  * <img src="./icons/fastapi.svg" width=25px align=center> FastAPI
+  * <img src="./icons/fastapi.svg" width=28px align=center> FastAPI
 
 ## <center>Projects</center>
 
