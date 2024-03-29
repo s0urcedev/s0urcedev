@@ -45,8 +45,9 @@
 
 ## <center>Contacts</center>
 
-* <img src="./icons/gmail.svg" width=30px align=center> **Email:** *<boyarkin.gleb@gmail.com>*
+* <img src="./icons/gmail.svg" width=30px align=center> **Email:** *<boyarkin.gleb@gmail.com>* / *<hlieb.boiarkin@gmail.com>*
 * <img src="./icons/github.svg" width=30px align=center> **GitHub:** *[@s0urcedev](https://github.com/s0urcedev)*
+* <img src="./icons/linkedin.svg" width=30px align=center> **LinkedIn:** *[Hlieb Boiarkin](https://www.linkedin.com/in/hlieb-boiarkin-5b3921294/)*
 * <img src="./icons/discord.svg" width=30px align=center> **Dicord:** *[\_s0urce\_](https://discord.com/users/427731255140810754)*
 * <img src="./icons/telegram.svg" width=30px align=center> **Telegram:** *[@glebboyarkin](https://t.me/glebboyarkin)*
 * <img src="./icons/instagram.svg" width=30px align=center> **Instagram:** *[@boyarkin_gleb](https://www.instagram.com/boyarkin_gleb/)*
