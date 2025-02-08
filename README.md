@@ -3,7 +3,7 @@
 ## <center>Generals</center>
 
 * **Nickname:** *s0urce* (*s0urcedev*)
-* **Real name:** *Gleb Boyarkin* (*Hlieb Boiarkin*)
+* **Real name:** *Hlieb Boiarkin*
 * **Nationality:** *Ukrainian* <img src="./icons/ukraine.svg" width=35px align=center>
 * **Technologies:**
   * <img src="./icons/python.svg" width=35px align=center> Python
@@ -50,7 +50,7 @@
 * <img src="./icons/linkedin.svg" width=30px align=center> **LinkedIn:** *[Hlieb Boiarkin](https://www.linkedin.com/in/hlieb-boiarkin/)*
 * <img src="./icons/discord.svg" width=30px align=center> **Dicord:** *[\_s0urce\_](https://discord.com/users/427731255140810754)*
 * <img src="./icons/telegram.svg" width=30px align=center> **Telegram:** *[@glebboyarkin](https://t.me/glebboyarkin)*
-* <img src="./icons/instagram.svg" width=30px align=center> **Instagram:** *[@boyarkin_gleb](https://www.instagram.com/boyarkin_gleb/)*
+* <img src="./icons/instagram.svg" width=30px align=center> **Instagram:** *[@hlieb_boiarkin](https://www.instagram.com/hlieb_boiarkin/)*
 * <img src="./icons/pypi.svg" width=30px align=center> **PyPi:** *[s0urce](https://pypi.org/user/s0urce/)*
 * <img src="./icons/npm.svg" width=30px align=center> **NPM:** *[\_s0urce\_](https://www.npmjs.com/~_s0urce_)*
 * <img src="./icons/eolymp.png" width=30px align=center> **Eolymp:** *[boyarkin](https://www.eolymp.com/users/boyarkin)*
