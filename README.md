@@ -22,7 +22,7 @@
   * *[efrog.pp.ua](https://efrog.pp.ua)*
   * GitHub: *[efrog-team](https://github.com/efrog-team)* / *[efrog](https://github.com/efrog-team/efrog)*
 * **AdditionalFunctions**:
-  * *[additional-functions.s0urcedev.pp.ua](https://additional-functions.s0urcedev.pp.ua)*
+  * *[additional-functions.s0urce.dev](https://additional-functions.s0urce.dev)*
   * GitHub: *[AdditionalFunctions](https://github.com/s0urcedev/AdditionalFunctions)*
 * **BaseFunctions**:
   * Python: *[BaseFunctionsPy](https://github.com/s0urcedev/BaseFunctionsPy)*
@@ -32,14 +32,14 @@
   * *[casts.pp.ua](https://casts.pp.ua)*
   * GitHub: *[course-work](https://github.com/s0urcedev/course-work)*
 * **ib-pseudocode-interpreter**:
-  * *[ib-pseudocode-interpreter.s0urcedev.pp.ua](https://ib-pseudocode-interpreter.s0urcedev.pp.ua)*
+  * *[ib-pseudocode-interpreter.s0urce.dev](https://ib-pseudocode-interpreter.s0urce.dev)*
   * GitHub: *[ib-pseudocode-interpreter](https://github.com/s0urcedev/ib-pseudocode-interpreter)*
 * **ib-mcq-answer-sheet-grader**:
-  * *[ib-mcq-answer-sheet-grader.s0urcedev.pp.ua](https://ib-mcq-answer-sheet-grader.s0urcedev.pp.ua)*
+  * *[ib-mcq-answer-sheet-grader.s0urce.dev](https://ib-mcq-answer-sheet-grader.s0urce.dev)*
   * GitHub: *[ib-mcq-answer-sheet-grader](https://github.com/s0urcedev/ib-mcq-answer-sheet-grader)*
 * **khollang**:
-  * *[khollang.s0urcedev.pp.ua](https://khollang.s0urcedev.pp.ua)*
-  * *[khollang-interpreter.s0urcedev.pp.ua](https://khollang-interpreter.s0urcedev.pp.ua)*
+  * *[khollang.s0urce.dev](https://khollang.s0urce.dev)*
+  * *[khollang-interpreter.s0urce.dev](https://khollang-interpreter.s0urce.dev)*
   * GitHub: *[khollang](https://github.com/s0urcedev/khollang)*
 * Others can be accessed on my GitHub [s0urcedev](https://github.com/s0urcedev)
 
